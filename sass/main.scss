@@ -1,6 +1,9 @@
-@import "variables.scss";
 @import "scss/fontawesome.scss";
 @import "scss/solid.scss";
+
+$main-color: #7DB8AB;
+$secondary-color: #C4E1DA;
+$main-font:'Open Sans', sans-serif;
 body {
     background-color: white;
 }
